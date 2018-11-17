@@ -26,7 +26,7 @@ define ZINC_CUSTOMISE_MSG
 endef
 
 # Zinc keyboard customize
-LED_BACK_ENABLE = no        # LED backlight (Enable SK6812mini backlight)
+LED_BACK_ENABLE = yes        # LED backlight (Enable SK6812mini backlight)
 LED_UNDERGLOW_ENABLE = no   # LED underglow (Enable WS2812 RGB underlight)
 LED_ANIMATIONS = yes        # LED animations
 IOS_DEVICE_ENABLE = no      # connect to IOS device (iPad,iPhone)
